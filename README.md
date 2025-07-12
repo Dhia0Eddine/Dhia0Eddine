@@ -1,8 +1,3 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{Dhia0Eddine}/count.svg" alt="Visitor's Count" />
-</div>
-
 
 <h1 align="center">
     <img src="max-duzij-qAjJk-un3BI-unsplash.jpg" />
@@ -59,8 +54,6 @@ Hi, I’m GUERFI Dhia Eddine, an AI student with a strong background in computer
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://dhia0eddine.github.io/Dhia0Eddine/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://dhia0eddine.github.io/Dhia0Eddine/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://dhia0eddine.github.io/Dhia0Eddine/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
