@@ -59,10 +59,11 @@ Hi, I’m GUERFI Dhia Eddine, an AI student with a strong background in computer
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{Dhia0Eddine}/{Dhia0Eddine}/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{Dhia0Eddine}/{Dhia0Eddine}/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Dhia0Eddine/Dhia0Eddine/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://dhia0eddine.github.io/Dhia0Eddine/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://dhia0eddine.github.io/Dhia0Eddine/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://dhia0eddine.github.io/Dhia0Eddine/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
+
 
 <hr>
